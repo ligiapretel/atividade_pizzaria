@@ -1,10 +1,12 @@
 function listar(){
     // Seu código aqui
-    console.log("Função listar ok")
+    console.log("Função listar ok");
 }
 
 function salvar(arrayDeUsuarios){
     // Seu código aqui
+    console.log("Função salvar ok");
+
 }
 
 function cadastrar(objeto){
